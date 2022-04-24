@@ -1,2 +1,2 @@
-# -OSSRH-80253
+# OSSRH-80253
 check
